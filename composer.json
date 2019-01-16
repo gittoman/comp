@@ -4,5 +4,8 @@
   "license" : "proprietary",
     "extra" : {
 		"branch-alias" : {"dev-master" : "v1.0.0-dev"}
+	},
+	"require" : {
+		"php" : ">= 5.3"
 	}
 }
