@@ -1,5 +1,8 @@
 {
   "name" : "gittoman/comp",
   "description" : "test package",
-  "license" : "proprietary"
+  "license" : "proprietary",
+  "extra" : {
+		"branch-alias" : {"dev-master" : "patch-1"}
+	}
 }
