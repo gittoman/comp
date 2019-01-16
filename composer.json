@@ -3,6 +3,6 @@
   "description" : "test package",
   "license" : "proprietary",
   "extra" : {
-		"branch-alias" : {"dev-master" : "patch-1"}
+		"branch-alias" : {"dev-master" : "abc"}
 	}
 }
